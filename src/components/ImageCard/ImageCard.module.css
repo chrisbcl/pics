@@ -1,0 +1,3 @@
+.ImageCard {
+    grid-row-end: span var(--span-number, 2);
+}
